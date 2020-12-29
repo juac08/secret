@@ -1,0 +1,2 @@
+# secret
+Authentication with manoose
