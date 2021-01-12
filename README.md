@@ -1,2 +1,6 @@
 # secret
-Authentication with manoose
+Authentication with mongoose
+
+# npm init
+
+#Install NPM required Pakages 
